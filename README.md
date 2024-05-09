@@ -1,6 +1,6 @@
 # Data-Annotation-Coding-Challenge
 ## Problem Statement:
-````
+```
 In this exercise, you will develop a function named decode(message_file). This function should read an encoded message from a .txt file and return its decoded version as a string. Note that you can write your code using any language and IDE you want (Python is preferred if possible, but not mandatory).
 Your function must be able to process an input file with the following format:
 
@@ -21,4 +21,5 @@ The key to decoding the message is to use the words corresponding to the numbers
 1: I
 3: love
 6: computers
+
 ```
